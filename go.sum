@@ -1,0 +1,6 @@
+github.com/carlmjohnson/requests v0.23.5 h1:NPANcAofwwSuC6SIMwlgmHry2V3pLrSqRiSBKYbNHHA=
+github.com/carlmjohnson/requests v0.23.5/go.mod h1:zG9P28thdRnN61aD7iECFhH5iGGKX2jIjKQD9kqYH+o=
+github.com/lomsa-dev/gonull v0.3.2 h1:+W/ZfxPdyP/GL6TmzohK4Ej6zBO4D5aziW/XNlFrIdg=
+github.com/lomsa-dev/gonull v0.3.2/go.mod h1:tKrEZF8gZt455xE7HLeUriC/nv2fWWIRvtszd26Rp7I=
+golang.org/x/net v0.15.0 h1:ugBLEUaxABaB5AJqW9enI0ACdci2RUd4eP51NTBvuJ8=
+golang.org/x/net v0.15.0/go.mod h1:idbUs1IY1+zTqbi8yxTbhexhEEk5ur9LInksu6HrEpk=
